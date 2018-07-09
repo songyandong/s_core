@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+/Gateway/obj/Release/netcoreapp2.1
+/Gateway/obj/Debug/netcoreapp2.1
